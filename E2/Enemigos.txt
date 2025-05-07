@@ -1,0 +1,12 @@
+name: Bokoblin
+race: None
+description: Bokoblins, also known as Red Bokoblins, are recurring enemies in the The Legend of Zelda series. They are common infantry units utilized—alongside Moblins or Bulblins—by antagonists such as Ganon. They can be defeated with most conventional weapons. 
+games: ['The Legend of Zelda: The Wind Waker', 'The Legend of Zelda: Twilight Princess', 'The Legend of Zelda: Skyward Sword', 'The Legend of Zelda: Breath of the Wild']
+
+----------
+name: Daira
+race: None
+description: Daira are recurring enemies and Sub-Bosses in The Legend of Zelda series. They are expert axe-throwers, and their axes are able to slice through most Shields, making them more dangerous than those enemies who wield conventional swords or spears. 
+games: ['Zelda II: The Adventure of Link']
+
+----------

@@ -1,0 +1,14 @@
+name: Midna
+gender: Female
+race: Twili
+description: Midna is a recurring character in The Legend of Zelda series. She is a resident of the Twilight Realm and a descendant of the ancient Twili people. At first, she seems to be a strange, dark creature with an agenda of her own and little regard for Link, but she ends up changing her attitude towards those who are willing to help her. 
+games: ['The Legend of Zelda: Twilight Princess']
+
+----------
+name: Ancient Oven
+gender: None
+race: None
+description: The Ancient Oven is a character in Breath of the Wild. 
+games: ['The Legend of Zelda: Breath of the Wild']
+
+----------
